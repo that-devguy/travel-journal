@@ -25,7 +25,7 @@ Join me in following this course! So far, I can confidently say that I highly re
 
 ## Application Demo
 
-
+![My Travel Journal Demo](./src/images/travel-journal-demo.JPG)
 
 ## Contributing
 
