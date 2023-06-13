@@ -1,12 +1,10 @@
-import './App.css';
-import 'normalize.css';
+import React from "react";
+import "./App.css";
+import "normalize.css";
+import Navbar from "./components/Navbar";
 
 function App() {
-  return (
-    <div className="app--container">
-      <h1>My Travel Journal</h1>
-    </div>
-  );
+  return <Navbar />;
 }
 
 export default App;
