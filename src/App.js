@@ -4,10 +4,16 @@ import "normalize.css";
 import Navbar from "./components/Navbar";
 import Card from "./components/Card";
 import data from "./data";
+import Divider from "./components/Divider";
 
 function App() {
   const cards = data.map((item) => {
-    return <Card {...item} />;
+    return (
+      <div>
+        <Card {...item} />
+        <Divider />
+      </div>
+    );
   });
 
   return (
