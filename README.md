@@ -33,7 +33,7 @@ This project is not currently available for contribution.
 
 ## Project Links
 
-Github Repository: https://github.com/that-devguy/airbnb-experiences-clone/
+Github Repository: https://github.com/that-devguy/travel-journal
 
 ## License
 
