@@ -33,7 +33,8 @@ This project is not currently available for contribution.
 
 ## Project Links
 
-Github Repository: https://github.com/that-devguy/travel-journal
+Deployed Application: https://that-devguy.github.io/travel-journal/
+GitHub Repository: https://github.com/that-devguy/travel-journal
 
 ## License
 
